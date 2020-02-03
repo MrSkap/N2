@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="StrQuestion1">Какой твой любимый цвет?</string>
+    <string name="question1">Нравится Нюша???</string>
+    <string name="ans1_1">Конечно, да</string>
+    <string name="ans1_2">ФУ, тянки</string>
+    <string name="ans1_3">Я слтшком стар для этого</string>
+    <string name="question2">Выбери вещь</string>
+    <string name="question3">От винта?</string>
+    <string name="ans3_1">ОТ ВИНТА</string>
+    <string name="ans3_2">Я не Пин</string>
+    <string name="ans3_3">Елки-иголки, да что же это творится</string>
+    <string name="beforeAns">TextView</string>
+    <string name="quizName">Какой ты смешарик?</string>
+    <string name="startButton">Давай узнаем</string>
+    <string name="exitButton">Ну нафиг</string>
+    <string name="PIN">Ты ПИН!</string>
+    <string name="Losiash">Очевидно, ты Лосяш</string>
+    <string name="Barash">Ты Бараш!</string>
+    <string name="Kopatich">Ты Копатыч</string>
+    <string name="Nusha">Ты Нюша!</string>
+    <string name="Krosh">Ты чертов Крош!</string>
+    <string name="Karkarich">Ты Каркарыч)</string>
+    <string name="ExitAfterText">Пойду-ка от сюда</string>
+    <string name="RestartButton">Давай поновой</string>
+</resources>
